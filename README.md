@@ -2,7 +2,7 @@
 
 Click the deploy button below to directly deploy this repository with Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fepiserver%2Fvercel-contentgraph-template&env=CG_SINGLE_KEY,CG_APP_KEY,CG_SECRET,CG_WEBHOOK_SECRET,CMS_URL)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fepiserver%2Fvercel-contentgraph-template)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped  
 with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
